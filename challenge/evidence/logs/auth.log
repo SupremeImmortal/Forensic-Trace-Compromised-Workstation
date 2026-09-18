@@ -1,0 +1,14 @@
+HOST=NS-WS-047
+
+2026-08-14 08:42:11 INFO LOGIN SUCCESS user=j.smith src=10.20.14.21
+2026-08-14 08:51:03 INFO LOGIN SUCCESS user=a.patel src=10.20.14.18
+2026-08-14 09:03:17 INFO LOGIN SUCCESS user=j.smith src=10.20.14.21
+2026-08-14 09:11:04 INFO LOGIN SUCCESS user=j.smith src=10.20.14.33
+2026-08-14 09:13:22 INFO SESSION START user=j.smith src=10.20.14.33
+2026-08-14 09:17:23 INFO FILE DOWNLOAD user=j.smith src=10.20.14.33 file=meeting_update.exe
+2026-08-14 09:19:41 INFO PROCESS START user=j.smith process=meeting_update.exe
+2026-08-14 09:19:45 INFO PROCESS START user=j.smith process=powershell.exe
+2026-08-14 09:25:12 INFO LOGIN SUCCESS user=administrator src=10.20.14.33
+2026-08-14 09:25:41 INFO PROCESS START user=administrator process=powershell.exe
+2026-08-14 09:30:02 INFO SCHEDULED TASK CREATED user=administrator task=WindowsUpdateCheck
+2026-08-14 09:41:27 INFO SESSION END user=j.smith src=10.20.14.33

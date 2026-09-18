@@ -1,0 +1,5 @@
+timestamp,path,event
+2026-08-14 09:17:23,C:\Users\j.smith\Downloads\meeting_update.exe,FILE_CREATED
+2026-08-14 09:19:41,C:\Users\j.smith\Downloads\meeting_update.exe,PROCESS_STARTED
+2026-08-14 09:19:45,C:\Users\j.smith\AppData\Roaming\update.ps1,FILE_CREATED
+2026-08-14 09:30:02,C:\Users\j.smith\AppData\Roaming\update.ps1,PERSISTENCE_REFERENCED

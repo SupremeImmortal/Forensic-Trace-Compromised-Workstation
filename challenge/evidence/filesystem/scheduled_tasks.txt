@@ -1,0 +1,9 @@
+Task Name: WindowsUpdateCheck
+Account: administrator
+Created: 2026-08-14 09:30:02
+
+Action:
+powershell.exe -File C:\Users\j.smith\AppData\Roaming\update.ps1
+
+Trigger:
+At logon

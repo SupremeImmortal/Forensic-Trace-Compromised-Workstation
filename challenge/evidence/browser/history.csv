@@ -1,0 +1,4 @@
+timestamp,user,url,title,download
+2026-08-14 09:16:58,j.smith,http://search.example/,Internal Search,
+2026-08-14 09:17:12,j.smith,http://updates-northstar.example/,Northstar Software Update,
+2026-08-14 09:17:23,j.smith,http://updates-northstar.example/download/meeting_update.exe,Software Update,meeting_update.exe

@@ -1,0 +1,13 @@
+2026-08-14 09:19:45 USER=j.smith HOST=NS-WS-047
+Command: powershell.exe -File C:\Users\j.smith\AppData\Roaming\update.ps1
+
+2026-08-14 09:19:46 USER=j.smith HOST=NS-WS-047
+Script: update.ps1
+Action: Create persistence configuration
+
+2026-08-14 09:25:41 USER=administrator HOST=NS-WS-047
+Command: powershell.exe -File C:\Users\j.smith\AppData\Roaming\update.ps1
+
+2026-08-14 09:25:42 USER=administrator HOST=NS-WS-047
+Script: update.ps1
+Action: Verify persistence configuration

@@ -1,0 +1,10 @@
+Evidence ID,Filename,Type,Description
+EVID-001,auth.log,LOG,Authentication activity
+EVID-002,network.log,LOG,Network activity
+EVID-003,powershell.log,LOG,PowerShell activity
+EVID-004,security.log,LOG,Windows security events
+EVID-005,history.csv,BROWSER,Browser history
+EVID-006,timeline.csv,FORENSICS,Filesystem timeline
+EVID-007,scheduled_tasks.txt,FORENSICS,Persistence artifact
+EVID-008,meeting_update.exe,SAMPLE,Suspicious file
+EVID-009,update.ps1,SAMPLE,Suspicious script

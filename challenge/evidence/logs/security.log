@@ -1,0 +1,4 @@
+EventID=4624 Time=2026-08-14T09:11:04 User=j.smith SourceIP=10.20.14.33
+EventID=4688 Time=2026-08-14T09:19:41 User=j.smith NewProcess=meeting_update.exe
+EventID=4688 Time=2026-08-14T09:19:45 User=j.smith NewProcess=powershell.exe
+EventID=4698 Time=2026-08-14T09:30:02 User=administrator TaskName=WindowsUpdateCheck

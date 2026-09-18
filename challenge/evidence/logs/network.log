@@ -1,0 +1,7 @@
+2026-08-14 09:16:58 DNS QUERY host=NS-WS-047 domain=updates-northstar.example
+2026-08-14 09:17:12 HTTP GET host=NS-WS-047 url=http://updates-northstar.example/
+2026-08-14 09:17:23 HTTP GET host=NS-WS-047 path=/download/meeting_update.exe status=200
+2026-08-14 09:17:23 DOWNLOAD file=meeting_update.exe size=206
+2026-08-14 09:18:54 DNS QUERY host=NS-WS-047 domain=cdn-northstar.example
+2026-08-14 09:19:41 PROCESS NETWORK ACTIVITY process=meeting_update.exe
+2026-08-14 09:19:45 PROCESS NETWORK ACTIVITY process=powershell.exe
